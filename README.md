@@ -23,6 +23,9 @@ Pro's of Refactoring, codes can become easier to read and understand, easier to 
 However, refactoring has con's also, it can be time consuming, mistakes can be made in editing the original code and you could introduce bugs into the code. 
 
 ### Advatages of Refractoring
-in this instance, refactoring made this code run faster.
-![VBA_Challenge_2017](https://user-images.githubusercontent.com/93962390/144726305-078fddae-b152-47cb-b5b2-6ec15d3df787.PNG)
-![VBA_Challenge_2018](https://user-images.githubusercontent.com/93962390/144726310-cabd8b56-373d-48ae-be64-1225c9854eb0.png)
+Refactoring made this code run faster by approximetly 0.8 seconds.
+
+
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/93962390/144726463-73a4bdef-ed0e-43f1-8f42-6906e0cee63f.png)
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/93962390/144726466-b83bc8ca-a47e-4f89-b61f-19057d58daa6.png)
+
